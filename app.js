@@ -1,1 +1,1 @@
-console.log('Lista de mercado: Arroz, Huevo, pan')
+console.log('Lista de mercado: Panela, Platano, Arroz, Huevo, pan')
